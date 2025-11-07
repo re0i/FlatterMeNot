@@ -355,11 +355,12 @@ document.addEventListener("DOMContentLoaded", async function () {
     window.open("https://www.instagram.com/re139ii/");
   });
   githubButton.addEventListener("click", function () {
-    window.open("https://github.com/ri0e");
+    window.open("https://github.com/re0i");
   });
 
   updateTextElements();
 });
+
 
 
 
